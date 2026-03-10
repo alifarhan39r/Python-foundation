@@ -1,0 +1,9 @@
+a="farhan"
+print(a)
+print(a.upper())
+print(a.lower())
+print(a.capitalize())
+print(a.isalpha())
+print(a.isdigit())
+print(a.swapcase())
+print(a.title())
