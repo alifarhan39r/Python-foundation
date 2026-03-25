@@ -5,7 +5,7 @@ print(l)
 # l.sort(reverse=True)
 # l.reverse()
 # print(l.index(1))
-# print(l.count(1))
+# print(l.count(47))
 # l.insert(1,899)
 # l.copy()
 # m[0]=0
